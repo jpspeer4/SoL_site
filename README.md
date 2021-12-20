@@ -1,3 +1,2 @@
-# git_test
-First repositroy made for TOP
-Hello Odin! 
+# Speed of Light Website 
+First repository/website for Odin project. 
